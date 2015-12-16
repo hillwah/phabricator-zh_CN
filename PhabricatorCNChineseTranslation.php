@@ -26,7 +26,7 @@ return array(
   '"%s"' => null,
 
   // src/applications/auth/view/PhabricatorAuthAccountView.php:54
-  '"%s" Account' => null,
+  '"%s" Account' => '"%s" 账户',
 
   // src/applications/cache/spec/PhabricatorOpcodeCacheSpec.php:93
   '"%s" Disabled' => null,
