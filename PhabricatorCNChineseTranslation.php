@@ -9472,7 +9472,7 @@ return array(
   // src/applications/config/controller/PhabricatorConfigDatabaseStatusController.php:95
   // src/applications/config/controller/PhabricatorConfigDatabaseStatusController.php:161
   // src/applications/config/controller/PhabricatorConfigController.php:21
-  'Database Status' => null,
+  'Database Status' => 'Database 状态',
 
   // src/applications/config/controller/PhabricatorConfigDatabaseStatusController.php:222
   'Database Status: %s' => null,
